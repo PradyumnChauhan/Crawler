@@ -19,6 +19,8 @@ This Python-based web scraper extracts product data from multiple Indian e-comme
 ```bash
 git clone https://github.com/PradyumnChauhan/Crawler.git
 
+cd Crawler
+
 # Create virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
