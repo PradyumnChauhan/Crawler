@@ -17,8 +17,7 @@ This Python-based web scraper extracts product data from multiple Indian e-comme
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-scraper.git
-cd ecommerce-scraper
+git clone https://github.com/PradyumnChauhan/Crawler.git
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
